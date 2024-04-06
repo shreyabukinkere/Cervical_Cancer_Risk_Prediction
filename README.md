@@ -15,7 +15,7 @@ jtplot.style(theme='monokai', context='notebook', ticks=True, grid=False) ;
 The dataset used is from Kaggle.
 In this project we preprocess the data by removing all the null values, filling in missing data, analysing the correlation matrix, standardising it and then continue to train and test the data.
 ## Algorithm used: XGBoost Algorithm
--XGBoost stands for eXtreme Gradient Boosting, a powerful machine learning algorithm known for its speed and performance.
+XGBoost stands for eXtreme Gradient Boosting, a powerful machine learning algorithm known for its speed and performance.
 It belongs to the ensemble learning family, specifically boosting algorithms, which combine the predictions of several weak learners to improve overall accuracy.
 XGBoost is highly efficient due to its optimized implementation and parallelization capabilities, making it suitable for large-scale datasets.
 It supports both regression and classification tasks, making it versatile for various predictive modeling problems.
